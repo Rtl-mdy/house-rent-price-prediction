@@ -5,3 +5,7 @@ data/*.csv
 models/*.joblib
 outputs/*.csv
 graphs/*.png
+
+
+# Local dataset files
+data/*
